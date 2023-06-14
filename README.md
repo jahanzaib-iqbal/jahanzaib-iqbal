@@ -1,4 +1,4 @@
-
+![logo](https://github.com/jahanzaib-iqbal/jahanzaib-iqbal/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
 <h3 align="center">A passionate Full Stack MERN developer</h3>
 
