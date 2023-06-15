@@ -11,11 +11,12 @@
  
 - 🌱 I’m currently learning **React Native and ML**
 
+- 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
+
 - 👨‍💻 All of my connections are available at [https://linktr.ee/jahanzaibb](https://linktr.ee/jahanzaibb)
 
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **jahanzaibiqbal1059@gmail.com**
+- 📫 How to reach me
+- Linkedin: https://www.linkedin.com/in/jahanzaib69/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
