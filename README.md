@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/Jahanzaibb69" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=twitter&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
 
  
-- 🌱 I’m currently learning **React Native and ML**
+- 🌱 I’m currently learning **React Native*
 
 - 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
 
-- 👨‍💻 All of my connections are available at [https://linktr.ee/jahanzaibb](https://linktr.ee/jahanzaibb)
+- 👨‍💻 All of my connections are available at <a href="https://flowcv.me/jahanzaib" target="_blank">Click Here</a>
 
 - 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/jahanzaib69/
