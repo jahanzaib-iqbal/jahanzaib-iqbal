@@ -1,4 +1,4 @@
-![logo](https://github.com/jahanzaib-iqbal/jahanzaib-iqbal/blob/main/banner.png)
+<!-- ![logo](https://github.com/jahanzaib-iqbal/jahanzaib-iqbal/blob/main/banner.png) -->
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <!-- https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true -->
@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/jahanzaib-iqbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahanzaib-iqbal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahanzaib-iqbal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahanzaib-iqbal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
