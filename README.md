@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
 <h3 align="center">A passionate Full Stack developer | MERN</h3>
 <!-- https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true -->
-<img align="right" alt="Coding GIF" width="400" src ="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+<!-- <img align="right" alt="Coding GIF" width="400" src ="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaib-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaib-iqbal" /> </p>
  -->
 
 <p align="left"> <a href="https://twitter.com/Jahanzaibb69" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=twitter&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
 
  
-- 🌱 I’m currently learning **React Native*
+- 🌱 I’m currently learning **React*
 
 - 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
 
@@ -40,13 +40,13 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-
+<!--
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/jahanzaib-iqbal">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahanzaib-iqbal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahanzaib-iqbal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahanzaib-iqbal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</p>
+</p> -->
