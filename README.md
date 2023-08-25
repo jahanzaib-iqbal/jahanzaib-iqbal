@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/Jahanzaibb69" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=twitter&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
 
  
-- 🌱 I’m currently learning **React*
+- 🌱 I’m currently learning **Advance React**
 
 - 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
 
