@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
 
-- 👨‍💻 All of my connections are available at https://jahanzaib-iqbal.vercel.app/
+- 👨‍💻 My Porfolio : [https:///](https://www.jahanzaib.me/)
 
 
 - Linkedin: https://www.linkedin.com/in/jahanzaib69/
