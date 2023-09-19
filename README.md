@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
 
-- 👨‍💻 My Porfolio : [https:///](https://www.jahanzaib.me/)
+- 👨‍💻 My Portfolio : https://www.jahanzaib.me/
 
 
 - Linkedin: https://www.linkedin.com/in/jahanzaib69/
