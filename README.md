@@ -17,32 +17,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/jahanzaibb69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahanzaibb69" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/jahanzaib69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanzaib69" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/14813061/jahanzaib-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14813061/jahanzaib-iqbal" height="30" width="40" /></a> -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jahanzaib69/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/jahan._zaib/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](ttps://www.facebook.com/jahanzaib1059/)
  [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://jahanzaibb.medium.com/ "My Recent Articles Here")
  
-</p>
-
-
-## 📝Latest Article:
-### "🧱State And Props - Building Blocks of Dynamic UI" 
-I recently published an article on Medium that dives into the essential concepts of React, focusing on State and Props. It's a guide that can help you level up your skills in building dynamic user interfaces. Here's what you'll find:
-- Understanding State and how it drives dynamic data.
-- The role of Props in connecting components.
-- Real-world applications to put theory into practice.
-- Key differences between State and Props.
-- Common mistakes to avoid and Tips for efficient debugging 
-
-👉 Read the full article [here](https://medium.com/@jahanzaibiqbal1059/state-and-props-in-react-and-react-native-795a563761b8).
-
-
-
 
 
 
@@ -71,6 +51,20 @@ I recently published an article on Medium that dives into the essential concepts
 - **Languages**:
     ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+
+
+
+## 📝Latest Article:
+### "🧱State And Props - Building Blocks of Dynamic UI" 
+I recently published an article on Medium that dives into the essential concepts of React, focusing on State and Props. It's a guide that can help you level up your skills in building dynamic user interfaces. Here's what you'll find:
+- Understanding State and how it drives dynamic data.
+- The role of Props in connecting components.
+- Real-world applications to put theory into practice.
+- Key differences between State and Props.
+- Common mistakes to avoid and Tips for efficient debugging 
+
+👉 Read the full article [here](https://medium.com/@jahanzaibiqbal1059/state-and-props-in-react-and-react-native-795a563761b8).
+
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
