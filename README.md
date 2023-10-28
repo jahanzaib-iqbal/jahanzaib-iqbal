@@ -68,6 +68,6 @@ I recently published an article on Medium that dives into the essential concepts
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahanzaib-iqbal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</p>
+
 
 
