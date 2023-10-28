@@ -15,19 +15,22 @@
 - 👨‍💻 My Portfolio: https://www.jahanzaib.me/
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/jahanzaibb69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahanzaibb69" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jahanzaib69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanzaib69" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/14813061/jahanzaib-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14813061/jahanzaib-iqbal" height="30" width="40" /></a> -->
-<a href="https://instagram.com/jahan._zaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahan._zaib" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jahanzaib1059/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="jahan._zaib" height="30" width="40" /></a>
-<a href="https://jahanzaibb.medium.com/" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%404x.png" alt="jahan._zaib" height="30" width="100" /></a>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jahanzaib69/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/jahan._zaib/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](ttps://www.facebook.com/jahanzaib1059/)
+ [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://jahanzaibb.medium.com/ "My Recent Articles Here")
+ 
 </p>
 
 
-## <a href="https://jahanzaibb.medium.com/" target="_blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" alt="jahan._zaib" height="40" width="40" /></a>📝Latest Article:
+## 📝Latest Article:
 ### "🧱State And Props - Building Blocks of Dynamic UI" 
 I recently published an article on Medium that dives into the essential concepts of React, focusing on State and Props. It's a guide that can help you level up your skills in building dynamic user interfaces. Here's what you'll find:
 - Understanding State and how it drives dynamic data.
@@ -67,7 +70,7 @@ I recently published an article on Medium that dives into the essential concepts
 
 - **Languages**:
     ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F0DB4F) 
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
