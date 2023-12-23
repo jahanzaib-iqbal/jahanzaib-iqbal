@@ -1,8 +1,6 @@
-<!-- ![logo](https://github.com/jahanzaib-iqbal/jahanzaib-iqbal/blob/main/banner.png) -->
+
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
-<!-- <img align="right" alt="Coding GIF" width="400" src ="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaib-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaib-iqbal" /> </p> -->
  
 
 <p align="left"><a href="https://www.linkedin.com/in/jahanzaib69/" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=LinkedIn&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
