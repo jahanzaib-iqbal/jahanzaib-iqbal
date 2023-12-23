@@ -44,7 +44,6 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F78374?style=for-the-badge&logo=figma&logoColor=white)
-<!-- ![Github](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black) -->
 
 <!-- **Languages**:-->
 
