@@ -66,8 +66,13 @@ I recently published an article on Medium that dives into the essential concepts
 <p align="center">
 <a href="https://github.com/jahanzaib-iqbal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahanzaib-iqbal&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+ </a>
 </p>
 
 
+<p align="center">
+<a href="https://github.com/jahanzaib-iqbal">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jahanzaib-iqbal&theme=radical"/>
+ </a>
+</p>
 
