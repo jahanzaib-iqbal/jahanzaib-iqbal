@@ -63,16 +63,10 @@ I recently published an article on Medium that dives into the essential concepts
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jahanzaib-iqbal&theme=radical)](https://git.io/streak-stats)
+
 <p align="center">
 <a href="https://github.com/jahanzaib-iqbal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahanzaib-iqbal&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
-
-
-<p align="center">
-<a href="https://github.com/jahanzaib-iqbal">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=jahanzaib-iqbal&theme=radical"/>
- </a>
-</p>
-
