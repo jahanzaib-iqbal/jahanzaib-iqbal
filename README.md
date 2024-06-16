@@ -54,10 +54,10 @@
 
 
 ## 📝Latest Article:
-### "🧱State And Props - Building Blocks of Dynamic UI" 
+<!--### "🧱State And Props - Building Blocks of Dynamic UI" 
 I recently published an article on Medium that dives into the essential concepts of React, focusing on State and Props. It's a guide that can help you level up your skills in building dynamic user interfaces. 
-
-👉 Read the full detailed article [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jahanzaibiqbal1059/state-and-props-in-react-and-react-native-795a563761b8 "States and Props in React and React Native")
+-->
+### 👉 Read my latest articles on Medium [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jahanzaibiqbal1059/state-and-props-in-react-and-react-native-795a563761b8 "States and Props in React and React Native")
 <!--[here](https://medium.com/@jahanzaibiqbal1059/state-and-props-in-react-and-react-native-795a563761b8). -->
 
 
