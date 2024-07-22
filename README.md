@@ -8,7 +8,7 @@
  
 - I’m currently learning **Advance React and React Native**.
 - Looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
--  My Portfolio: https://www.jahanzaib.me/
+-  My Portfolio: https://jahanzaib-iota.vercel.app/
 
 
 
