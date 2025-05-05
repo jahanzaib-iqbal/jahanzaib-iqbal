@@ -1,22 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Java, SPring Boot, ElasticSearch, Kafka, Vue.js, AWS</h3>
  
 
 <p align="left"><a href="https://www.linkedin.com/in/jahanzaib69/" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=LinkedIn&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
-
- 
-- I’m currently learning **Advance React and React Native**.
-- Looking to collaborate on **Web development projects** and also join teams developing Enterprise level websites
--  My Portfolio: https://jahanzaib-iota.vercel.app/
-
 
 
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jahanzaib69/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/jahan._zaib/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](ttps://www.facebook.com/jahanzaib1059/)
  [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://jahanzaibb.medium.com/ "My Recent Articles Here")
  
 
@@ -26,11 +19,20 @@
 
 
 <!--  - **Frameworks/Libraries**: -->
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React](https://shields.io/badge/react%20Native-586597?logo=react&style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MSSqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 <!-- ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge) -->
 <!-- ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
