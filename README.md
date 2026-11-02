@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jahanzaib Iqbal</h1>
-<h3 align="center">Software Engineer | Java, SPring Boot, ElasticSearch, Kafka, Vue.js, AWS</h3>
+<h3 align="center">Software Engineer | Java, SPring Boot, Angular </h3>
  
 
 <p align="left"><a href="https://www.linkedin.com/in/jahanzaib69/" target="blank"><img src="https://img.shields.io/twitter/follow/Jahanzaibb69?logo=LinkedIn&style=for-the-badge" alt="Jahanzaibb69" /></a> </p>
